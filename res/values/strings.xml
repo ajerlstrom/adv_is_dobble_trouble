@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DobbleTrouble</string>
+    <string name="button_solo">Solo</string>
+    <string name="button_multi">Multiplayer</string>
+    <string name="button_help">Help</string>
+    <string name="button_quit">quit</string>
+</resources>
